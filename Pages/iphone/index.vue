@@ -3,7 +3,7 @@
     <nuxt-link to="/iphone/iphone-12" class="shadow-lg text-center">
       <h1>Iphone 12</h1>
       <div class="flex border rounded-lg justify-center">
-        <img width="200" src="/image/iphone12.png" alt="" />
+        <img width="200" src="/image/iphone-12.png" alt="" />
       </div>
     </nuxt-link>
     <nuxt-link
